@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+  
+html, body{
+    height: 100%;
+    width: 100%;
+}
+  
+body {
+      margin: 0;
+      background: rgb(250, 254, 255);
+      font-family: 'Work Sans', sans-serif;
+      font-weight: 800;
+}
+
+.admin{
+      text-align: center;
+      padding-top: 30px;
+}
+
+h3{
+    padding-left: 50px;
+}
+
+.info{
+      border: 2px solid black;
+      width: 93%;
+      margin: 0 auto;
+      margin-top: 30px;
+}
+
+.title{
+    border: 1px solid black;
+    display: inline-flex;
+    width: 100%;
+    font-size: 20px;
+}
+
+.second{
+    margin-left: 60%;
+}
+
+.description{
+    font-size: 10px;
+}

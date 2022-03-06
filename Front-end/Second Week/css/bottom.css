@@ -1,0 +1,39 @@
+.bottom{
+    height: 30%;
+    background-color: #222;
+  }
+  
+  .bottomimgizq{
+    height: 100%;
+    float: left;
+    margin-left: 30%;
+    margin-top: 5%;
+  }
+  
+  .bottomimgizq img{
+    height: 50%;
+  }
+  
+  .bottomtext{
+    width: 50%;
+    height: 100%;
+    float: right;
+    text-align: left;
+  }
+  
+  .bottomtext li{
+    display: inline-block;
+    margin: 30px 40px 10px 50px;
+  }
+  
+  .bottomtext a{
+    color: #55d6aa;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+  }
+  
+  .bottom p{
+    margin-left: 50px;
+    color: #55d6aa;
+  }

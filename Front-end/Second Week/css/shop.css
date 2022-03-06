@@ -1,0 +1,100 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  html, body{
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+      margin: 0;
+      background-color: #222;
+      font-family: 'Work Sans', sans-serif;
+      font-weight: 800;
+  }
+
+  .start{
+      height: 80%;
+      width: 100%;
+      background-color: rgb(255, 255, 255);
+      padding-top: 10px;
+      text-align: center;
+  }
+
+  .start h1{
+      margin-top: 30px;
+      font-size: 40px;
+  }
+
+  .start p{
+      font-size: 20px;
+      color: rgb(85, 85, 85);
+  }
+
+.finalform{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    text-align: center;
+}
+
+
+.base input{
+    margin: 10px;
+    display: inline-block;
+}
+
+.middle{
+    height: 50%;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+  }
+
+.middle h1{
+    padding-top: 45px;
+}
+  
+  .cupcakes{
+    display: inline-block;
+    margin: 30px 1%;
+    height: 60%;
+    width: 20%;
+  }
+  
+  .cupcakes img{
+    height: 180px;
+    width: 160px;
+  }
+
+.information{
+    text-align: left;
+    background-color: rgb(255, 255, 255);
+}
+
+.information input{
+    width: 80%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+}
+
+.information textarea{
+    width: 80%;
+    margin: 1%;
+}
+
+.information p{
+    margin-left: 1%;    
+}
+.submit{
+  height: 10%;
+  width: 15%;
+  color: #FFFFFF;
+  background-color: #55d6aa;
+  font-size: 20px;
+  margin: 5px;
+}

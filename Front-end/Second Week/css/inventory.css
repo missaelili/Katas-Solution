@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+  
+html, body{
+    height: 100%;
+    width: 100%;
+}
+  
+body {
+      margin: 0;
+      background: rgb(250, 254, 255);
+      font-family: 'Work Sans', sans-serif;
+      font-weight: 800;
+}
+
+.middle{
+  height: 50%;
+  width: 100%;
+  background: #FFFFFF;
+  text-align: center;
+}
+
+.cupcakes{
+  display: inline-block;
+  margin: 30px 1%;
+  height: 60%;
+  width: 20%;
+}
+
+.cupcakes img{
+  height: 180px;
+  width: 160px;
+}
+
+.middle input{
+  margin-top: 10px;
+  height: 9%;
+  width: 12%;
+  color: #FFFFFF;
+  background-color: #55d6aa;
+  font-size: 20px;
+}

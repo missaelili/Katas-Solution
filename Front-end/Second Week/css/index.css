@@ -1,0 +1,67 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+body {
+	margin: 0;
+	background: #222;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 800;
+}
+
+.start{
+  background-image: linear-gradient(rgba(255,255,255,0.7), rgba(255,255,255,0.7)), url("../img/cup.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 50%;
+  width: 100%;
+  text-align: center;
+}
+
+.start hr{
+  width: 35%;
+  margin: auto;
+  color: #55d6aa;
+  height: 2%;
+  background-color: #55d6aa;
+  border: 0;
+}
+
+.start{
+  padding-top: 4%;
+  font-size: 50px;
+  color: #000000;
+}
+
+.start h3{
+  font-size: 70px;
+}
+
+.middle{
+  height: 50%;
+  width: 100%;
+  background: #FFFFFF;
+  text-align: center;
+}
+
+.cupcakes{
+  display: inline-block;
+  margin: 30px 1%;
+  height: 60%;
+  width: 20%;
+}
+
+.middle input{
+  height: 10%;
+  width: 15%;
+  color: #FFFFFF;
+  background-color: #55d6aa;
+  font-size: 20px;
+}
